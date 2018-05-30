@@ -1,5 +1,5 @@
 {
-  "name": "aspit__javascript-exercise_front-end-web-app",
+  "name": "aspit__exercise_js",
   "version": "1.0.0",
   "description": "School project.",
   "main": "gulpfile.js",
@@ -8,8 +8,7 @@
   },
   "keywords": [
     "javascript",
-    "gulp",
-    "web-app"
+    "gulp"
   ],
   "author": "134",
   "license": "ISC",
